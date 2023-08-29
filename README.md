@@ -6,7 +6,7 @@ Generate a logo using SVG.
 
 The Logo Maker Application is a powerful tool designed to empower developers and designers to create stunning graphics efficiently and effortlessly. Whether you're a seasoned developer or a creative enthusiast, this application provides a seamless and intuitive platform to bring your visual ideas to life.
 
-Graphic Logo Application
+Logo Maker Application
 
 Key Features
 1. Efficient Graphic Creation
